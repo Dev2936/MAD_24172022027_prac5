@@ -1,4 +1,4 @@
-#  MAD_24172012060_Prac 5
+#  MAD_24172022027_Prac 5
 
 ## Project Overview
 This Android application demonstrates the use of **Jetpack Compose Navigation** to create a complete user authentication flow. The app showcases a modern UI design with separate login and registration screens, featuring smooth navigation between different composable screens.
